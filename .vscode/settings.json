@@ -1,0 +1,11 @@
+{
+    "nativescript-extend.fileAssociations": [
+        {
+            "systemId": "/home/morris/issues/schema/tns.xsd",
+            "pattern": "**/**/*.xml"
+        }
+    ],
+    "files.exclude": {
+        "schema": true
+    }
+}
