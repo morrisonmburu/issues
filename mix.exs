@@ -30,7 +30,7 @@ defmodule Issues.MixProject do
       { :poison, "~> 4.0"}, 
       { :hackney, "~> 1.15"},
       { :ex_doc, "~> 0.19.0"},
-      { :earmark , " ~> 1.2.4"}
+      { :earmark , "~> 1.2.4"}
     ]
   end
 
